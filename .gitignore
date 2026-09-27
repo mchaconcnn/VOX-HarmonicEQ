@@ -1,0 +1,6 @@
+/build/
+/work/
+.DS_Store
+*.xcuserstate
+*.xcuserdata
+/outputs/*.zip
